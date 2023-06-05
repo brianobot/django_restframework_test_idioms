@@ -11,4 +11,4 @@ This is not a package, so most of the code presented here are to be copied into 
 specific to your web application implementation.
 
 ## Maintainer:
-- ![Brian Obot](https://github.com/brianobot/) <brianobot9@gmail.com>
+- [Brian Obot](https://github.com/brianobot/) [<brianobot9@gmail.com>]
